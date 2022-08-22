@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">shortmess</string>
+    <string name="foldername">Name...</string>
+    <string name="textbody">Add text...</string>
+    <string name="apply">Create</string>
+    <string name="noty">Show notification...</string>
+    <string name="spill">Split text by...</string>
+    <string name="get">Get...</string>
+    <string name="dots">…</string>
+    <string name="index">Input index of phrases...</string>
+    <string name="error">Out of array...</string>
+    <string name="find">Find...</string>
+    <string name="allfolders">All Folders</string>
+    <string name="change">Change</string>
+
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="widget_name">My second Widget</string>
+    <string name="widget_text">Text in widget</string>
+
+</resources>
